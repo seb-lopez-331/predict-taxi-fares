@@ -1,0 +1,1 @@
+pandas geopandas numpy fastparquet dplython scikit-learn ipython graphviz matplotlib pickle
